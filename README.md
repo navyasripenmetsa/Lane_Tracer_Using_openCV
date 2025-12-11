@@ -1,6 +1,5 @@
 # Lane_Tracer_Using_openCV
 
-#  **Lane Tracer — Road Lane Detection Using OpenCV**
 
 This project implements a **traditional computer-vision–based lane detection system** using OpenCV. It processes dashcam footage to identify road lane boundaries, simulating the core of a **basic lane-following module** used in autonomous driving systems.
 
